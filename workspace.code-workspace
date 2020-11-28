@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../QAStrategy"
+		},
+		{
+			"path": "../QASTRATEGY101"
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "remote"
+	}
+}
